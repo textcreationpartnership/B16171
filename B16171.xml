@@ -1,0 +1,2527 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The valuacyo[n] of golde and syluer made i[n] ye yere .M.C.CCC.lxxxxix holde i[n] the marke vnce englice quart troye. dewes and aes the maner for to weight wyth pe[n]nes and graynes and herein is sett ye fygures of ye spannysh and poortyngalysh docates whiche is now.</title>
+            <title>Valuacyon of golde and sylver made in ye yere .M.C.CCC.lxxxxix.</title>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16171</idno><idno type="EEBO-CITATION">99840953</idno>
+  <idno type="VID">176394</idno>
+  <idno type="EEBO-PROQUEST">2240862985</idno>
+  <idno type="STC">STC 24591</idno>
+  <idno type="STC">ESTC S105224</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99840953e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 157:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The valuacyo[n] of golde and syluer made i[n] ye yere .M.C.CCC.lxxxxix holde i[n] the marke vnce englice quart troye. dewes and aes the maner for to weight wyth pe[n]nes and graynes and herein is sett ye fygures of ye spannysh and poortyngalysh docates whiche is now.</title>
+                  <title>Valuacyon of golde and sylver made in ye yere .M.C.CCC.lxxxxix.</title>
+                  <author>Andrew, Laurence, fl. 1510-1537.</author>
+               </titleStmt>
+               <extent>[48] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>J. van Doesborch?,</publisher>
+                  <pubPlace>[Antwerp :</pubPlace>
+                  <date>ca. 1520?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated by Laurence Andrew.</note>
+                  <note>Imprint suggested by STC; place of publication from STC; printer's name and date of publication conjectured by STC.</note>
+                  <note>Signatures: [a]-c.</note>
+                  <note>Imperfect; leaf c8 torn, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coins, Medieval --  Early works to 1800.</term>
+               <term type="topical_term">Money --  Tables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:176394:1"/>
+            <pb facs="tcp:176394:1"/>
+            <head>¶ The valuacyō of golde and syluer made ī y<seg rend="sup">e</seg> yere. M.C.CCC.lxxxxix. holde ī the marke vnce englice <abbr>quar<g ref="char:EOLunhyphen"/>t</abbr> troye. dewes and aes The maner for to weight wyth pēnes and gray<g ref="char:EOLunhyphen"/>nes and herein is sett y<seg rend="sup">e</seg> fygures of y<seg rend="sup">e</seg> spaynysh and Poortyngalysh doca<g ref="char:EOLunhyphen"/>tes whiche is now.</head>
+            <div type="illustrations_of_coins">
+               <p>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                     <head>¶ The golde fleys</head>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                     <head>The phūs gyldon</head>
+                  </figure>
+                  <pb facs="tcp:176394:2"/>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                     <head>¶ The siluer flyes</head>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                     <head>¶ The dowble styuer</head>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                     <head>¶ The syngyle styuere</head>
+                  </figure>
+               </p>
+            </div>
+            <div type="tract_proper">
+               <pb facs="tcp:176394:2"/>
+               <p> ¶ For that euery oon of what state or condycion he be shall the better &amp; sewerlyer haue the right valure off his golde light or other forbodē and sett for bolyon so hath men sett here and ordeyned the ryght valure as nye as may be doon of y<seg rend="sup">e</seg> marke vn<g ref="char:EOLhyphen"/>ces englisses <abbr>quats</abbr> troyes deweses &amp; and aesses of dyuersys soort{is} of pecis of golde Wher men cōmonly fynde moost of whiche valew by good deli<g ref="char:EOLhyphen"/>beracion of counsell auaunsed and is chaūged in the moueth of december Anno lxxxxix</p>
+               <p>
+                  <table>
+                     <head>¶ Furst the ynglishe nobyl. the gol<g ref="char:EOLhyphen"/>de fleys. the docates of ytalyē riders crusadē. salutes and other leyke gol<g ref="char:EOLunhyphen"/>de is wor y<seg rend="sup">e</seg> euery eche</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xxii. lī vij. <abbr>s</abbr> xi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The once</cell>
+                        <cell>ij lī xv <abbr>s</abbr> xi <abbr>d</abbr> xxi mit</cell>
+                     </row>
+                     <pb facs="tcp:176394:3"/>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxiij. <abbr>d</abbr> xiiij mit{is} g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half</cell>
+                        <cell>xvi <abbr>d</abbr> xix mit{is} g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>viij <abbr>d</abbr> ix mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iiij <abbr>d</abbr> iiij mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>ij <abbr>d</abbr> ij mit{is} i <abbr>q̄t</abbr> ʐ g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>i <abbr>d</abbr> i mite ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The olde frenche crowne the olde flemysh helmes and <abbr>od</abbr> lyeke olde fle<g ref="char:EOLunhyphen"/>mysh golde ys the marke worthe</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xxij lī iiij <abbr>d</abbr> ix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij <abbr>ll</abbr>xv <abbr>s</abbr> xiij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xxxiij <abbr>d</abbr> flx</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xvi <abbr>d</abbr> ʐ. flx</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier.</cell>
+                        <cell>viij <abbr>d</abbr> i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iiij <abbr>d</abbr> ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>ij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The flemysh nobiɫɫ Iohēs &amp; phūs</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xxi lī xiiij <abbr>s</abbr> vij <abbr>d</abbr> ix m̄</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ii lī xiiij. <abbr>s</abbr>▪ iij <abbr>d</abbr> xxij m</cell>
+                     </row>
+                     <pb facs="tcp:176394:3"/>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxij. <abbr>d</abbr> xiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xvi <abbr>d</abbr> vi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>viij <abbr>d</abbr> iij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iiij <abbr>d</abbr> i mite ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>ij. <abbr>d</abbr> iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>i <abbr>d</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Scuytkȳs &amp; flemyse nobiɫɫ▪ w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> rose</head>
+                     <row>
+                        <cell>the marke.</cell>
+                        <cell>xxilī vij <abbr>s</abbr> iij. <abbr>d</abbr> xiiij. m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī xiij <abbr>s</abbr> iiij <abbr>d</abbr> xx m.</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxij <abbr>d</abbr> i mit{is} i miit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xvi <abbr>d</abbr> i ʐ mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>viij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iiij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>ij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>
+                           <abbr>id</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The golde lyon.</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xxi <abbr>ll</abbr> v <abbr>s</abbr> ij <abbr>d</abbr> ij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī xiij s̄ i <abbr>d</abbr> xviii mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxi <abbr>d</abbr> xxi mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xv <abbr>d</abbr> xxij mit{is} ʐ</cell>
+                     </row>
+                     <pb facs="tcp:176394:4"/>
+                     <row>
+                        <cell>the quartier.</cell>
+                        <cell>vij <abbr>d</abbr> xxiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the trye</cell>
+                        <cell>iij <abbr>d</abbr> xviij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xxiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xxiij mit{is} ʐ.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The crowne w<seg rend="sup">t</seg> the sonne</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xxi lī i <abbr>s</abbr> v <abbr>d</abbr> xxi mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī xij <abbr>s</abbr> viij <abbr>d</abbr> v m ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxi <abbr>d</abbr> xiiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xv <abbr>d</abbr> xix mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quater</cell>
+                        <cell>vij <abbr>d</abbr> xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> xxij mt iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes.</cell>
+                        <cell>i <abbr>d</abbr> xxiij mit{is} i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xxiij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The olde karolus crewne w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> cro<g ref="char:EOLunhyphen"/>wne and the sauoyes crowe</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xxi lī ij <abbr>s</abbr> xi <abbr>d</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī xij <abbr>s</abbr> x <abbr>d</abbr> ix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxi <abbr>d</abbr> xviij m</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xv <abbr>d</abbr> xxi mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>vij <abbr>d</abbr> xxij mit{is}</cell>
+                     </row>
+                     <pb facs="tcp:176394:4"/>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> xi mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xvij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xxiij mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The lodowycus crowne brytaūs<g ref="char:EOLhyphen"/>se riders crownē offoys gwyemshe and aquitaenshe crownes</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xx lī xviij <abbr>s</abbr> vi <abbr>d</abbr> xxij m</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī xij <abbr>s</abbr> iij <abbr>d</abbr> xx mi. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxxi <abbr>d</abbr> xi mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xv <abbr>d</abbr> xvij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>vij <abbr>d</abbr> xx mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> xxij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xxiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xxiij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The bourgoenshe gildon and the olde korfosters gildoons</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xvij lī xiiij <abbr>s</abbr> v <abbr>d</abbr> iij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī iiij s̄ iij <abbr>d</abbr> xv mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxvi <abbr>d</abbr> xiiij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xiij <abbr>d</abbr> vij mit{is}</cell>
+                     </row>
+                     <pb facs="tcp:176394:5"/>
+                     <row>
+                        <cell>the quartier.</cell>
+                        <cell>vi <abbr>d</abbr> rvmit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> vij mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xv mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The wilhelmus</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xvij lī ij <abbr>s</abbr> viij <abbr>d</abbr> xij mit</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī ij <abbr>s</abbr> x <abbr>d</abbr> i mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxv <abbr>d</abbr> xvi mir{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xij <abbr>d</abbr> xx mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quater</cell>
+                        <cell>vi <abbr>d</abbr> x mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> v mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes.</cell>
+                        <cell>i <abbr>d</abbr> xiiij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The corfosteer gyldō that now mē mynte and noon other.</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xvij lī vij <abbr>s</abbr> i <abbr>d</abbr> xv m̄</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī iij <abbr>s</abbr> iiij <abbr>d</abbr> xvij m̄</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxvi <abbr>d</abbr> mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xiij <abbr>d</abbr> ʐ mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>vi <abbr>d</abbr> xij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:5"/>
+                     <row>
+                        <cell>the troye.</cell>
+                        <cell>iij <abbr>d</abbr> vi mit{is} ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes.</cell>
+                        <cell>i <abbr>d</abbr> xv mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} ʐ.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The Iohannes.</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xv lī vi <abbr>s</abbr> vi <abbr>d</abbr> iij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxviij <abbr>s</abbr> iiij <abbr>d</abbr> xviij <abbr>m̄</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxij <abbr>d</abbr> xxiij mi.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>xi <abbr>d</abbr> xi m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> xvij m. iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xx m. iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d.</abbr> x m. i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvij m. ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The olde gulicse gyldō named the clemmers</head>
+                     <row>
+                        <cell>the marke.</cell>
+                        <cell>xvij lī viij <abbr>s</abbr> vij <abbr>d</abbr> viij m</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī iij <abbr>s</abbr> vi <abbr>d</abbr> xxij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxvi <abbr>d</abbr> iij mite. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>xiij <abbr>d</abbr> i mite iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>vi <abbr>d</abbr> xij mi ʐ i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> vi mi i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <pb facs="tcp:176394:6"/>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xv mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The vtrechshe dauid gildon that men rodith Epīs</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xv lī x <abbr>s</abbr> viij <abbr>d</abbr> xxi m</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvij <abbr>s</abbr> x <abbr>d</abbr> ij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englise</cell>
+                        <cell>xxiij <abbr>d</abbr> vij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the half englise</cell>
+                        <cell>xi <abbr>d</abbr> xv mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> xix mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xxi m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> x mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvij mit{is} i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The vtrechshe gildon that mē re<g ref="char:EOLhyphen"/>dith Epūs spelled w<seg rend="sup">t</seg>out i y<seg rend="sup">t</seg> is woer y<seg rend="sup">e</seg>
+                     </head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī xix <abbr>s</abbr> viij <abbr>d</abbr> iij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvij <abbr>s</abbr> v <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xxij <abbr>d</abbr> xi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xi <abbr>d</abbr> v mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> xiiij mit{is} iij <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xix mit{is} i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <pb facs="tcp:176394:6"/>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> ix m. ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi m. iij. <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The vtrechshe gildon dauid laste made wyth the armes of Goorgon</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī xvij <abbr>s</abbr> vi <abbr>d</abbr> xx m</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxvij <abbr>s</abbr> ij <abbr>d</abbr> viij m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxij <abbr>d</abbr> vij m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>xi <abbr>d</abbr> iij m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> xiij m. iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xviij m. iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> ix m. i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi m. ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ Sent iohīs gildon made at gawn<g ref="char:EOLunhyphen"/>te.</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī xv <abbr>s</abbr> ij <abbr>d</abbr> ij m.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxiiij <abbr>s</abbr> iiij <abbr>d</abbr> xviij m</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xx <abbr>d</abbr> xv mite.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>x <abbr>d</abbr> vij mite ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> iij mi <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xiij mi</cell>
+                     </row>
+                     <pb facs="tcp:176394:7"/>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vi mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is} i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The phūs clynckerdis of y<seg rend="sup">e</seg> ī land{is}</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī ix <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxv <abbr>s</abbr> i <abbr>d</abbr> v mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the englise</cell>
+                        <cell>xxi <abbr>d</abbr> i mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englise.</cell>
+                        <cell>x <abbr>d</abbr> xij mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> vi mit{is} i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xv m.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>The philipp{is} clinckaerts w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> right crossys betwyn the wordes</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī viij <abbr>s</abbr> iiij <abbr>d</abbr> xx mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxiij <abbr>s</abbr> vi <abbr>d</abbr> xiiij m ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xx <abbr>d</abbr> ij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>x <abbr>d</abbr> i mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> ʐ mit{is} i ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> ʐ i <abbr>q̄t</abbr> of amit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vi mit{is}.</cell>
+                     </row>
+                     <pb facs="tcp:176394:7"/>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is}</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The phūs clīckaerts last made w<seg rend="sup">t</seg> thre rynges betwyn the wordis</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī i <abbr>s</abbr> i <abbr>d</abbr> vij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxij s̄ vij <abbr>d</abbr> xvi mt{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xix <abbr>d</abbr> xiiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>ix <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>iiij <abbr>d</abbr> xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> x mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> v mite i <abbr>q̄tʐ</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xiiij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ Arnoldus gyldon</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xi lī v <abbr>s</abbr> iiij <abbr>d</abbr> iiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxviij <abbr>s</abbr> ij <abbr>d</abbr> ʐ mite</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xvi <abbr>d</abbr> xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>viij <abbr>d</abbr> x mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>iiij <abbr>d</abbr> v mit{is} i <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij d <abbr>ij</abbr> mit{is} ʐ. ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>di</abbr> mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xij mit{is} ʐ</cell>
+                     </row>
+                     <pb facs="tcp:176394:8"/>
+                     <row>
+                        <cell>The aes</cell>
+                        <cell>xij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The vtrechse postulaet last made whithe the ylle T of sante</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xij lī v s̄ x <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The vnce</cell>
+                        <cell>xxx s̄ viij <abbr>d</abbr> xviij m</cell>
+                     </row>
+                     <row>
+                        <cell>The englice.</cell>
+                        <cell>xviij <abbr>d</abbr> x mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The half enclice</cell>
+                        <cell>ix <abbr>d</abbr> v mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The quartier</cell>
+                        <cell>iiij <abbr>d</abbr> xiiij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The troye</cell>
+                        <cell>ij <abbr>d</abbr> vij mit{is} <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The dewes</cell>
+                        <cell>i <abbr>d</abbr> iij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The aes</cell>
+                        <cell>xiij mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The postulaet wyth the hownde Ropertus</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xi lī ix <abbr>s</abbr> ix <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The vnce</cell>
+                        <cell>xxviij <abbr>s</abbr> viij <abbr>d</abbr> xvij m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The englice</cell>
+                        <cell>xvij <abbr>d</abbr> v mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The ʐ englice</cell>
+                        <cell>viij <abbr>d</abbr> xiiij mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>iiij <abbr>d</abbr> vij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> iij mite iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> i mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:8"/>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xij mit{is}</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The postelaet w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> armes of bo<gap reason="illegible" resp="#uom" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xi lī vi <abbr>s</abbr> i <abbr>d</abbr> xiij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxviij s̄ iij <abbr>d</abbr> iiij m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>x vi <abbr>d</abbr> xxiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>viij <abbr>d</abbr> xi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>iiij <abbr>d</abbr> v mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> ij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> mite i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xij mit{is}</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>The ludich she postulaet w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> armes of horne mēredith iohīs w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> i spelled</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>x lī ix <abbr>s</abbr> iiij <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxvi <abbr>s</abbr> ij <abbr>d</abbr> i mite ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xv <abbr>d</abbr> xvi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>vij <abbr>d</abbr> xx mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>iij <abbr>d</abbr> xxiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>i <abbr>d</abbr> xxij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>xxiij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xi mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:176394:9"/>
+                  <table>
+                     <head>¶ Other of likenes made after the hande y<seg rend="sup">t</seg> mē redeth Iohēs spelled w<seg rend="sup">t</seg>
+                        <g ref="char:EOLhyphen"/>out I.</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>ix lī xis̄ v <abbr>d</abbr> xxij. m̄.</cell>
+                     </row>
+                     <row>
+                        <cell>The vnce</cell>
+                        <cell>xxiij s̄ xi <abbr>d</abbr> v mi iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The englice.</cell>
+                        <cell>xiiij <abbr>d</abbr> viij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The half englice</cell>
+                        <cell>vij <abbr>d</abbr> iiij mit{is} i <abbr>q̄</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The quartier</cell>
+                        <cell>iij <abbr>d</abbr> xiiij mit{is} ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>The troye</cell>
+                        <cell>i <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The dewes.</cell>
+                        <cell>xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The aes</cell>
+                        <cell>x mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The geldershe ryder</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xiiij lī xvi <abbr>s</abbr> i <abbr>d</abbr> iij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The vnce</cell>
+                        <cell>xxvij <abbr>s</abbr> vi m. ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The englice</cell>
+                        <cell>xxij <abbr>d</abbr> v mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The ʐ englice</cell>
+                        <cell>xi <abbr>d</abbr> ij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> xiij mit{is} i ʐ. <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xviij mite ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> ix mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:9"/>
+                     <row>
+                        <cell>the aes.</cell>
+                        <cell>xvi mit{is} ʐ.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The louenshe peeters.</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xvi lī xi <abbr>s</abbr> xxij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī i <abbr>s</abbr> iiij <abbr>d</abbr> xv mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>englice</cell>
+                        <cell>xxiiij <abbr>d</abbr> xx mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xij <abbr>d</abbr> x mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>vi <abbr>d</abbr> v mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> ij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xiij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xviij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The beyershe &amp; federicus gyldōs</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī ix <abbr>s</abbr> x <abbr>d</abbr> xiij mi.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxiij. <abbr>s</abbr> viij <abbr>d</abbr> xix m ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xx <abbr>d</abbr> v mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>x <abbr>d</abbr> ij mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>v <abbr>d</abbr> i mite i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xij mit{is} ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vi mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is} ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The vtrechsche dauid gildons of y<seg rend="sup">e</seg>
+                        <pb facs="tcp:176394:10"/> fyrst with y<seg rend="sup">e</seg> herpe w<seg rend="sup">t</seg> i. a bouē sharpe</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī xi <abbr>s</abbr> ix <abbr>d</abbr> i mite</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvi <abbr>s</abbr> v <abbr>d</abbr> xv. mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xxi <abbr>d</abbr> xxi mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>x <abbr>d</abbr> xxij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatiier</cell>
+                        <cell>v <abbr>d</abbr> xi mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xvij mit{is} ʐ. ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> viij mit{is} oon <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi mit{is} i <abbr>q̄t</abbr>. ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Item lieke dauid gyldons of y<seg rend="sup">e</seg> twee hauyng oon a bouen plat.</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī xviij <abbr>s</abbr> vij <abbr>d</abbr> xviij m.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce.</cell>
+                        <cell>xxxiiij <abbr>s</abbr> ix <abbr>d</abbr> xxiiij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xx <abbr>d</abbr> xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>x <abbr>d</abbr> x mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> v mit{is} i <abbr>q̄t</abbr> ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xiiij mit{is} ʐ. ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vij mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is} ʐ. ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:176394:10"/>
+                  <table>
+                     <head>¶ The ludicsche aungeɫɫ</head>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xv lī xij <abbr>s</abbr> i <abbr>d</abbr> xx mi.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxix <abbr>s</abbr> v mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxiij <abbr>d</abbr> x mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xi <abbr>d</abbr> xvij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> xx mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xxij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xi mit{is} ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes.</cell>
+                        <cell>xvij mit{is} ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon made at bremen by henricus archebyshop</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xvij lī vi <abbr>s</abbr> vij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī iij <abbr>s</abbr> iij <abbr>d</abbr> xxi mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>ij <abbr>s</abbr> ij <abbr>d</abbr>.</cell>
+                     </row>
+                     <pb facs="tcp:176394:11"/>
+                     <row>
+                        <cell>y<seg rend="sup">e</seg> ʐ <abbr>engl</abbr>.</cell>
+                        <cell>xiij <abbr>d</abbr> the <abbr>q̄rt</abbr> vi <abbr>d</abbr> xij mi</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> vi mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>y<seg rend="sup">e</seg> dewes</cell>
+                        <cell>i <abbr>d</abbr> xv mit{is} Aes xix mi ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon made at swolle by fre<g ref="char:EOLunhyphen"/>deric{is} roāno<g ref="char:EOLunhyphen"/>{rum} ī{per}a<g ref="char:EOLunhyphen"/>tor.</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xvij lī</cell>
+                     </row>
+                     <row>
+                        <cell>the vnte</cell>
+                        <cell>ij lī ij <abbr>s</abbr> vi <abbr>d</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>ij <abbr>s</abbr> i <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>xij <abbr>d</abbr> xviij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>vi <abbr>d</abbr> ix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>iij <abbr>d</abbr> iiij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xiiij mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:176394:11"/>
+                  <table>
+                     <head>¶ The gyldon made by iohn̄ kynge of denmarke</head>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xvij lī.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī ij <abbr>s</abbr> vi <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>ij <abbr>s</abbr> i <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xij <abbr>d</abbr> xviij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>vi <abbr>d</abbr> ix mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye.</cell>
+                        <cell>iij <abbr>d</abbr> iiij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i. <abbr>d</abbr> xiiij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xix mit{is} ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon made at dauentro by frederycus romanorū imperator</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xvi lī xiij. s̄ iiij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>ij lī i <abbr>s</abbr> viij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>ij <abbr>s</abbr> i <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:12"/>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xij <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>vi <abbr>d</abbr> vi mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye.</cell>
+                        <cell>iij <abbr>d</abbr> iij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> xiij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xviij mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                     <head>The gyldon mynted at dormont</head>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                     <head>The gyldon not long mynted by the byshop of vtrecht.</head>
+                  </figure>
+                  <pb facs="tcp:176394:12"/>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="explanation">
+                              <p>¶ Item these ij gyldons to knowe of dormont. And vtrecht been lieke off weight to as the gyldons of dauētry in the marke vnce &amp;c{is}.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <table>
+                     <head>The gyldon made to wesele in the lā<g ref="char:EOLhyphen"/>de of cleue.</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The marke</cell>
+                        <cell>xv. lī xviij <abbr>s</abbr> viij. <abbr>d</abbr>▪</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>i lī xix s̄ x <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xxiij g{is} <abbr>d</abbr> xxi mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>xi <abbr>d</abbr> xxij mit{is} iij. <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the quartier.</cell>
+                        <cell>v <abbr>d</abbr> xxiij. mit</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xxiij mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:13"/>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvij mit{is} iij <abbr>q̄t</abbr> ʐ</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldō made ī y<seg rend="sup">e</seg> lade of ludeke</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xv lī ij <abbr>s</abbr> vi d.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvij <abbr>s</abbr> ix <abbr>d</abbr> xviij mi.</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxij <abbr>d</abbr> xvi mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xi <abbr>d</abbr> viij mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> xvi mit{is} ʐ <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xx mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> x m it{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvij mit{is}</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>The gyldō made at <abbr>mȳst</abbr> ī westwale</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:13"/>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī xviij <abbr>s</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvij <abbr>s</abbr> iij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxij <abbr>d</abbr> viij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xi <abbr>d</abbr> iiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> xiiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes.</cell>
+                        <cell>i <abbr>d</abbr> ix mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi mit{is} iij <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldō here afore tyme whas made by dauid of borgon somtyme. byshop of vtrecht</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī xviij <abbr>s</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce</cell>
+                        <cell>xxxvij <abbr>s</abbr>. iij <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xxij <abbr>d</abbr> viij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>xi <abbr>d</abbr> iiij mit{is}</cell>
+                     </row>
+                     <pb facs="tcp:176394:14"/>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> xiiij. mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> ix mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi mit{is} iij <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon made at emdē in eest freyslande</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiiij lī ix s̄ iiij <abbr>d</abbr> xij m</cell>
+                     </row>
+                     <row>
+                        <cell>the vnce.</cell>
+                        <cell>xxxvi <abbr>s</abbr> ij <abbr>d</abbr> i mite ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xxi <abbr>d</abbr> xvij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice</cell>
+                        <cell>x <abbr>d</abbr> xx mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> x mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xvij mit{is} ʐ <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> viij mit{is} ʐ▪</cell>
+                     </row>
+                     <pb facs="tcp:176394:14"/>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xvi mit{is} i <abbr>q̄t</abbr>.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon not long and newe made in the lande of gelder</head>
+                     <row>
+                        <cell cols="2">
+                           <figure>
+                              <figDesc>face and reverse of coin</figDesc>
+                           </figure>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xiij lī xi <abbr>s</abbr> viij <abbr>d.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the vnce.</cell>
+                        <cell>xxxiij <abbr>s</abbr> xi <abbr>d</abbr> xij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice.</cell>
+                        <cell>xx <abbr>d</abbr> ix mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>x <abbr>d</abbr> iiij mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier</cell>
+                        <cell>v <abbr>d</abbr> ij mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> xiij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> vi mit{is} ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xv mit{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ The gyldon not lōg and newe ma<g ref="char:EOLunhyphen"/>de by fredericus of baden bishop off vtrecht</head>
+                     <pb facs="tcp:176394:15"/>
+                     <row>
+                        <cell>the marke</cell>
+                        <cell>xi lī xvi <abbr>s</abbr> vi <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the vnce.</cell>
+                        <cell>xxix <abbr>s</abbr> vi <abbr>d</abbr> xviij mit{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the englice</cell>
+                        <cell>xvij <abbr>d</abbr> xviij mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the half englice.</cell>
+                        <cell>viij <abbr>d</abbr> xxi mit{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the quartier.</cell>
+                        <cell>iiij <abbr>d</abbr> x mit{is} ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the troye</cell>
+                        <cell>ij <abbr>d</abbr> v mit{is} i <abbr>q̄t</abbr>▪</cell>
+                     </row>
+                     <row>
+                        <cell>the dewes</cell>
+                        <cell>i <abbr>d</abbr> ij mit{is} ʐ. <abbr>q̄t</abbr>.</cell>
+                     </row>
+                     <row>
+                        <cell>the aes</cell>
+                        <cell>xiij mi{is} i <abbr>q̄t</abbr>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <list>
+                  <head>Item nota</head>
+                  <item>Item oon troyes poūde holde ij mar<g ref="char:EOLhyphen"/>ke oon marke holde viij vnces.</item>
+                  <item>the vnce holde xx. englices</item>
+                  <item>the englice holde xxxij aesses</item>
+                  <item>the half englice holde xvi aesses</item>
+                  <item>the quartier holde viij aesses▪</item>
+                  <item>the troye holde ij. dewesses</item>
+                  <item>the dewes holde ij aesses</item>
+               </list>
+               <p>Sythen y<seg rend="sup">e</seg> furst erche duke of ostrijck duke of bourgoō of brabāt &amp;c{is}.</p>
+               <pb facs="tcp:176394:15"/>
+               <p> Yerle of flaundres of habsbourth ty<g ref="char:EOLhyphen"/>rol of artoys of holande sealande na<g ref="char:EOLunhyphen"/>men &amp;c{is}</p>
+               <p>Ys ordeyned that the money of gol<g ref="char:EOLhyphen"/>de and siluer here after folowȳg shal haue course with ī aɫɫ his landes and there lightnes the pryse wretē by <abbr>aft</abbr> folowyng holding in of the ordynaū<g ref="char:EOLunhyphen"/>ce not long made and published vpō y<seg rend="sup">e</seg> xxv day of december ī y<seg rend="sup">e</seg> yere M.CCCC.lxxxix</p>
+               <p>Whiche money of golde may be wei<g ref="char:EOLunhyphen"/>ghed ij aesses light thā ther right we<g ref="char:EOLunhyphen"/>ight vpō <abbr>euy</abbr> pese weɫɫ to vnderstan<g ref="char:EOLunhyphen"/>de y<seg rend="sup">t</seg> y<seg rend="sup">e</seg> half crowne quateirs of nobyl<g ref="char:EOLunhyphen"/>les &amp; <abbr>od</abbr> of liekenes lytiɫɫ pecis of <abbr>gold</abbr> shal not be more thā oon aes lighter may be thā towheer weight <abbr>aft</abbr>
+                  <abbr>hold</abbr> in of ther ordinaūces abowe wreten &amp; y<seg rend="sup">t</seg> vpō y<seg rend="sup">e</seg> boetes &amp; paynes takē ī y<seg rend="sup">e</seg> or<g ref="char:EOLunhyphen"/>dinaūce published ī y<seg rend="sup">e</seg> yere as aboue</p>
+               <pb facs="tcp:176394:16"/>
+               <p>
+                  <table>
+                     <head>¶ Fyrst the goldyng fleys that men hath mynted and now shaɫɫ myntte weighyng the marke</head>
+                     <row>
+                        <cell>of liiij ʐ in the marke.</cell>
+                        <cell>viij <abbr>s</abbr> iiij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The grett ryael of oostenrijck. of rviʐ. in marke</cell>
+                        <cell>xxvij <abbr>s</abbr> vi <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The half and y<seg rend="sup">e</seg> quartiers <abbr>aft</abbr> y<seg rend="sup">e</seg> raete</cell>
+                     </row>
+                     <row>
+                        <cell> The ynglish nobyɫɫ wyth y<seg rend="sup">e</seg> roose xxxij in the marke</cell>
+                        <cell>xiiij <abbr>s</abbr> ij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The half roose nobyɫɫ lxiiij in the marke</cell>
+                        <cell>vij <abbr>s</abbr> i <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The quartier roose nobyɫɫ C. xxviij in the marke</cell>
+                        <cell>iij <abbr>s</abbr> vij <abbr>d</abbr> ʐ. g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The ynglish nobyɫɫ henricus xxxvi the marke</cell>
+                        <cell>xij <abbr>s</abbr> vi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The half henricus nobyɫɫ. lxxij in the marke</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#uom" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>v <abbr>s</abbr> iij <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The quartier of y<seg rend="sup">e</seg> haryes nobyɫɫ, C. xliiij in the marke</cell>
+                        <cell>iij <abbr>s</abbr> i <abbr>d</abbr> ʐ g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The flemysh nobyɫɫ. xxxvi in the marke</cell>
+                        <cell>xij <abbr>s</abbr> g{is}</cell>
+                     </row>
+                     <pb facs="tcp:176394:16"/>
+                     <row>
+                        <cell>The half flemysh nobyɫɫ lxxij in the marke</cell>
+                        <cell>vi <abbr>s</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The quatier of them after the raete.</cell>
+                     </row>
+                     <row>
+                        <cell> The aungeɫɫ of yngland▪ xlviij ī the marke.</cell>
+                        <cell>ix <abbr>s</abbr> v <abbr>d</abbr> i englice g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The half aungeɫɫ of yngland. lxxxxvi ī y<seg rend="sup">e</seg> marke.</cell>
+                        <cell>iiij. <abbr>s</abbr> viij <abbr>d</abbr> iiij m▪ g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The golde lyon lix in the marke</cell>
+                        <cell>vij <abbr>s</abbr> iiij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The ij. partes of the lyon. lxxxviij ī y<seg rend="sup">e</seg> marke</cell>
+                        <cell>iiij <abbr>s</abbr> x <abbr>d</abbr> ʐ g{is} iiij. m</cell>
+                     </row>
+                     <row>
+                        <cell>The thirde parte of the lyon C lxxvij ī y<seg rend="sup">e</seg> marke</cell>
+                        <cell>ij <abbr>s</abbr> v <abbr>d</abbr> viij m. g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The golde ryder. lxx in the marke</cell>
+                        <cell>vi <abbr>s</abbr> vi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The half golde ryder. C lx in the marke</cell>
+                        <cell>iij <abbr>s</abbr> iij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The frenche crowne with y<seg rend="sup">e</seg> sonne lxx in marke</cell>
+                        <cell>vi <abbr>s</abbr> i <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the half of them after the raete</cell>
+                     </row>
+                     <row>
+                        <cell> The docaet of hongher<gap reason="illegible" resp="#uom" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <pb facs="tcp:176394:17"/> lxix in the marke</cell>
+                        <cell>vi <abbr>s</abbr> vi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The saluyt lxxij. in the marke</cell>
+                        <cell>vi <abbr>s</abbr> iij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The docaet of ytaly lxxij in the marke</cell>
+                        <cell>vi s̄ iij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The wilhelmus shilde. lxxij in the marke</cell>
+                        <cell>iiij <abbr>s</abbr> x <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The olde frenshe crowne lxxij in marke</cell>
+                        <cell>v s̄ xi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The half olde frenche crowne <abbr>aft</abbr> the rate</cell>
+                     </row>
+                     <row>
+                        <cell> The scuytkyns lxxiij in marke</cell>
+                        <cell>v <abbr>s</abbr> xi <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The iohēs shilde. lxxiij in marke</cell>
+                        <cell>iiij s̄ ij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The phūs that men hath mynted. and now shaɫɫ mynte of lxxiiij in y<seg rend="sup">t</seg> marke</cell>
+                        <cell>iiij s̄ ij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The bourgon andreas gyldon lxxiiij in the marke</cell>
+                        <cell>iiij <abbr>s</abbr> x <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The half andre as gyldon
+<pb facs="tcp:176394:17"/> of. C xlviij in the marke</cell>
+                        <cell>ij. <abbr>s</abbr> v <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The gheldres ryder lxxiiij in the marke</cell>
+                        <cell>iiij <abbr>s</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The vtrechshē gyldon dauid w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> armes off bourgon and noon other lxxvi in the marke</cell>
+                        <cell>iiij <abbr>s</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The philippus clinckaert lxxvi in the marke</cell>
+                        <cell>iiij s̄ vi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the half phūs clinckaert after y<seg rend="sup">e</seg> raete</cell>
+                     </row>
+                     <row>
+                        <cell> The louenshen peeter lxxvi in the marke</cell>
+                        <cell>iij <abbr>s</abbr> iiij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The fredericus and bayers gyldon lxxviij in the marke</cell>
+                        <cell>iij s̄ v <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The arnoldus gyldon of lxxxxij. in the marke</cell>
+                        <cell>ij <abbr>s</abbr> v <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The postulaten w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> armes bour<g ref="char:EOLunhyphen"/>boon and other wyth the hownde. lxxxi in the marke</cell>
+                        <cell>ij <abbr>s</abbr> ix <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:176394:18"/>
+                  <table>
+                     <head>¶ The good rynysh coruorster gol<g ref="char:EOLhyphen"/>dons wherof the fygures here be fy<g ref="char:EOLunhyphen"/>gured stande and noon other</head>
+                     <row>
+                        <cell>xxv in y<seg rend="sup">e</seg> marke</cell>
+                        <cell>iiij <abbr>s</abbr> viij <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                  </table>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <pb facs="tcp:176394:18"/>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <pb facs="tcp:176394:19"/>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <pb facs="tcp:176394:19"/>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin with inscription</figDesc>
+                  </figure>
+                  <table>
+                     <head>The valuacyon of y<seg rend="sup">e</seg> siluer money y<seg rend="sup">t</seg> of now forthe aen shal haue course &amp; goe &amp; noon other vpon y<seg rend="sup">e</seg> boete as a<g ref="char:EOLhyphen"/>bouesayd</head>
+                     <row>
+                        <cell>The greet syluer ryaeɫɫ</cell>
+                        <cell>xij. <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the syluer fleys</cell>
+                        <cell>vi <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>the newe doobbeɫɫ stouer</cell>
+                        <cell>iiij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>the syngeɫɫ of yt</cell>
+                        <cell>ij <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The doobbeɫɫ w<seg rend="sup">t</seg> crowe gryfōnes &amp; of lieke y<seg rend="sup">t</seg> w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> towe helmes and that wyth y<seg rend="sup">e</seg> crownes.</cell>
+                        <cell>v <abbr>d</abbr> ʐ g{is}</cell>
+                     </row>
+                     <pb facs="tcp:176394:20"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:176394:20"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:176394:21"/>
+                     <row>
+                        <cell cols="2">The halfes &amp; <abbr>quatts</abbr> after te rate</cell>
+                     </row>
+                     <row>
+                        <cell> The doobbeɫɫ with y<seg rend="sup">e</seg> ij lyons bour<g ref="char:EOLunhyphen"/>goon</cell>
+                        <cell>iiij <abbr>d</abbr> ʐ g{is}</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the syngeɫɫ of them after the rate.</cell>
+                     </row>
+                     <row>
+                        <cell> The doobbeɫɫ phūs and karolus</cell>
+                        <cell>v <abbr>d</abbr> g{is}. </cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the sȳgeɫɫ &amp; <abbr>q̄ts</abbr>
+                           <abbr>aft</abbr> the rate.</cell>
+                     </row>
+                     <row>
+                        <cell>The Iohēs braspens</cell>
+                        <cell>iij <abbr>d</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The melaenshe heedes that nemed sleepers</cell>
+                        <cell>xviij. <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The heedes and lyeke of money of sa<g ref="char:EOLunhyphen"/>uoye</cell>
+                        <cell>xvi <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The olde phūs of namē.</cell>
+                        <cell>ij <abbr>d</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The frenche blankes hawyng a<g ref="char:EOLhyphen"/>bowte the crosse towe lylyes &amp; ij cro<g ref="char:EOLhyphen"/>wnes</cell>
+                        <cell>ij. <abbr>d</abbr> g{is}</cell>
+                     </row>
+                  </table>
+                  <figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:176394:21"/>
+               <p>¶ Other frenche blankes that been named dysayns hauyng betwyn y<seg rend="sup">e</seg> crosse. iiij lylyes without crownes xl. met{is} flxg{is}
+<figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                  </figure>
+               </p>
+               <p>¶ Itē the grootes half &amp; <abbr>q̄ts</abbr> mynted within our myntes &amp; noon <abbr>od</abbr> shaɫɫ goe. hauyng as they do now
+<table>
+                     <head>¶ Itē here folowith how many en<g ref="char:EOLhyphen"/>glisses ʐ englysses <abbr>q̄ts</abbr> troyes dewes<g ref="char:EOLhyphen"/>ses &amp; aesses euery pese off golde must weight</head>
+                     <row>
+                        <cell>Fyrst y<seg rend="sup">e</seg> goldȳg fleys liiij. ʐ. In the marke</cell>
+                        <cell>ij. englice ʐ. i. <abbr>q̄t</abbr>. i troye oon de<g ref="char:EOLunhyphen"/>wes.</cell>
+                     </row>
+                     <row>
+                        <cell>The gret ryaeɫɫ off ostrijc xvi ʐ ī y<seg rend="sup">e</seg> mar</cell>
+                        <cell>ix englice ʐ i troie i dewes <abbr>hard</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:22"/>
+                     <row>
+                        <cell>The ynglishe nobeɫɫ w<seg rend="sup">t</seg> the roose. xxxij. in the marke</cell>
+                        <cell>v englice</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The halfes &amp; quartiers after y<seg rend="sup">e</seg> rate</cell>
+                     </row>
+                     <row>
+                        <cell> the herryc{is} nobyɫɫ xxxvij in y<seg rend="sup">e</seg> mar.</cell>
+                        <cell>iiij. englice i <abbr>q̄t</abbr> dewes i troye i ʐ aes </cell>
+                     </row>
+                     <row>
+                        <cell>The flemyse nobyɫɫ xxxvi ī y<seg rend="sup">e</seg> mar</cell>
+                        <cell>iiij englice i <abbr>q̄t</abbr> i troye i dewes &amp; i ʐ aes </cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the halfes of thē after y<seg rend="sup">e</seg> rate &amp; <abbr>quart</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The aūgeɫɫ of ynglād lxviij. ī y<seg rend="sup">e</seg> mar. </cell>
+                        <cell>iij englice i quartier i dewes &amp; i aes.</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the half of the same after the rate</cell>
+                     </row>
+                     <row>
+                        <cell>The golde lyoon lx in the mark</cell>
+                        <cell>ij englice ʐ i. troye i dewes &amp; oon aes</cell>
+                     </row>
+                     <row>
+                        <cell>y<seg rend="sup">e</seg> towe {per}tes of y<seg rend="sup">e</seg> lyoō. lxxxxviij ʐ ī y<seg rend="sup">e</seg>
+                           <abbr>m̄</abbr>
+                        </cell>
+                        <cell>i ʐ. englice i quartier &amp; i dewes</cell>
+                     </row>
+                     <row>
+                        <cell>The thirde of y<seg rend="sup">e</seg> same. C. lxxvij ī y<seg rend="sup">e</seg>
+                           <abbr>m̄</abbr>
+                        </cell>
+                        <cell>ʐ englice i quartier i troye and i aes.</cell>
+                     </row>
+                     <row>
+                        <cell>The golde rider lxx in y<seg rend="sup">e</seg> mark</cell>
+                        <cell>ij englice i quartier i dewes scaers</cell>
+                     </row>
+                     <row>
+                        <cell>The crown with y<seg rend="sup">e</seg> sonne lieke y<seg rend="sup">e</seg>
+                           <abbr>rpd</abbr>
+                           <pb facs="tcp:176394:22"/> the halfes of thē C xl in the marke</cell>
+                        <cell>i englice i troye. and oon aes</cell>
+                     </row>
+                     <row>
+                        <cell>The dokate of hongray lxix. ī y<seg rend="sup">e</seg> mar</cell>
+                        <cell>ij englice i <abbr>quart</abbr> i dewes i aes scaers</cell>
+                     </row>
+                     <row>
+                        <cell>The docate of ytalye the salute. the wilhelm{is} shilde y<seg rend="sup">e</seg> olde frēche crowne been of lxxij in the marke</cell>
+                        <cell>ij englice i troye i dewes i aes &amp; i ʐ <abbr>aed</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="2">the half of them after the rate.</cell>
+                     </row>
+                     <row>
+                        <cell>The towe {per}tis of y<seg rend="sup">e</seg> salute C viij. ī y<seg rend="sup">e</seg>
+                           <abbr>m̄</abbr>
+                        </cell>
+                        <cell>oon englice oon half englice scaers</cell>
+                     </row>
+                     <row>
+                        <cell>The scuyt y<seg rend="sup">e</seg> iohēs shilde lxxiij ī y<seg rend="sup">e</seg> mar</cell>
+                        <cell>ij englice i troye i dewes i aes half</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The phūs gyldon y<seg rend="sup">t</seg> mē now mynte the bourgounsh andreys gyldon.</cell>
+                     </row>
+                     <row>
+                        <cell>the geldres <abbr>ryd</abbr> lxxiiij. in y<seg rend="sup">e</seg> mark</cell>
+                        <cell>ij englice i troye i aes and oon ʐ aes</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The vtrechsh gyldon dauid.</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">The phūs clinckaert</cell>
+                     </row>
+                     <row>
+                        <cell>the louēsh <abbr>pet</abbr> of lxvi ī y<seg rend="sup">e</seg> marke</cell>
+                        <cell>ij englice I. troye scaers</cell>
+                     </row>
+                     <pb facs="tcp:176394:23"/>
+                     <row>
+                        <cell>The frederic{is} &amp; beyers gildō. lxxviij in the marke.</cell>
+                        <cell>weighing. ij. englice. i. dewes scaers</cell>
+                     </row>
+                     <row>
+                        <cell>The arnold{is} gyldō. lxxxxij. ī y<seg rend="sup">e</seg> mark</cell>
+                        <cell>weighith. i englice ʐ. &amp; oon. quatier</cell>
+                     </row>
+                     <row>
+                        <cell>The postolaet wyth the harmes off bourboon and w<seg rend="sup">t</seg> the hownud. lxxxi ī y<seg rend="sup">e</seg> mark.</cell>
+                        <cell>weight ij ēglite skaes </cell>
+                     </row>
+                     <row>
+                        <cell>The golde coruorsters gyldōs. lxxv ī the marke.</cell>
+                        <cell>ij englice. I troye. &amp; oon. ʐ aes</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>¶ Item here after folowith y<seg rend="sup">e</seg> maner for y<seg rend="sup">e</seg> weyghyng w<seg rend="sup">t</seg> y<seg rend="sup">e</seg> penni weight</p>
+               <p>¶ Item oon penny is xxiiij. grayen &amp; xxviij. grayē ʐ maketh oon englice</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>¶ Furst &amp; greetryaeɫɫ.</cell>
+                        <cell>
+                           <abbr>xi</abbr> d <abbr>xv</abbr> grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the half</cell>
+                        <cell>v. <abbr>d</abbr> xix grayē ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the nobeɫɫ with y<seg rend="sup">e</seg> rooses</cell>
+                        <cell>vi. <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the half</cell>
+                        <cell>iij. <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:176394:23"/>
+                     <row>
+                        <cell>the quatier</cell>
+                        <cell>i <abbr>d</abbr> xij grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the aungeɫɫ of ynglād.</cell>
+                        <cell>iiij. <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the half</cell>
+                        <cell>ij. <abbr>d</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the harryes nobeɫɫ</cell>
+                        <cell>v <abbr>d</abbr> viij grayē</cell>
+                     </row>
+                     <row>
+                        <cell>the flemyse nobeɫɫ</cell>
+                        <cell>v <abbr>d</abbr> viij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>the half of them</cell>
+                        <cell>ij <abbr>d</abbr> xvi graiē</cell>
+                     </row>
+                     <row>
+                        <cell>the quarteyrs of y<seg rend="sup">e</seg> same.</cell>
+                        <cell>i <abbr>d</abbr> viij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>The golde fleys</cell>
+                        <cell>iij <abbr>d</abbr> xij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>the golde lyoon.</cell>
+                        <cell>iij <abbr>d</abbr> vi graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>the towe part{is} of that</cell>
+                        <cell>ij <abbr>d</abbr> iiij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>the thirde parte of y<seg rend="sup">e</seg> same.</cell>
+                        <cell>i <abbr>d</abbr> ij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>The docaet of hungray</cell>
+                        <cell>ij <abbr>d</abbr> xix graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>y<seg rend="sup">e</seg> crowne weight y<seg rend="sup">e</seg> same.</cell>
+                        <cell>ij <abbr>d</abbr> xviij. gr</cell>
+                     </row>
+                     <row>
+                        <cell>the golde ryder</cell>
+                        <cell>
+                           <abbr>ij</abbr> d xviij grayn</cell>
+                     </row>
+                     <row>
+                        <cell>the docaet of ytalye</cell>
+                        <cell>ij <abbr>d</abbr> xvi grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the olde crowne</cell>
+                        <cell>ij <abbr>d</abbr> xvi graeyn</cell>
+                     </row>
+                     <row>
+                        <cell>the salute</cell>
+                        <cell>ij <abbr>d</abbr> xvi grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the wilhelmus shilde</cell>
+                        <cell>ij <abbr>d</abbr> xvi grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the shuyt</cell>
+                        <cell>ij <abbr>d</abbr> xv grayen</cell>
+                     </row>
+                     <row>
+                        <cell>the Iohēs shilde</cell>
+                        <cell>ij <abbr>d</abbr> xv grayen</cell>
+                     </row>
+                     <pb facs="tcp:176394:24"/>
+                     <row>
+                        <cell>The bourgoōs ādreas</cell>
+                        <cell>ij <abbr>d</abbr> xiiij grayē</cell>
+                     </row>
+                     <row>
+                        <cell>the phūs gyldon</cell>
+                        <cell>ij <abbr>d</abbr> xiiij grayē</cell>
+                     </row>
+                     <row>
+                        <cell>the gheldresh <abbr>rydd</abbr>
+                        </cell>
+                        <cell>ij <abbr>d</abbr> xiiij. grayē</cell>
+                     </row>
+                     <row>
+                        <cell>the iiij coruoster gyldōs</cell>
+                        <cell>ij <abbr>d</abbr> xiij graiē</cell>
+                     </row>
+                     <row>
+                        <cell>the vtrechē gyldon.</cell>
+                        <cell>ij <abbr>d</abbr> xij grayē ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the phūs clinckart.</cell>
+                        <cell>ij <abbr>d</abbr> xij. grayē ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the louensh peeter.</cell>
+                        <cell>ij <abbr>d</abbr> xij grayē ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the bayers gyldon</cell>
+                        <cell>ij <abbr>d</abbr> xi grayen ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>the federitus</cell>
+                        <cell>ij <abbr>d</abbr> xi. grayē ʐ</cell>
+                     </row>
+                     <row>
+                        <cell>The postelaet wyth the harmes off bourboon and wyth the hownde.</cell>
+                        <cell>ij. <abbr>d</abbr> ix grayen</cell>
+                     </row>
+                     <row>
+                        <cell>The arnoldus gyldon.</cell>
+                        <cell>ij <abbr>d</abbr> ij grayē ʐ</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>¶ Item the penny fyne of golde ys worthe. xiiij stouers ʐ amyte that is. ij. s̄ iiij <abbr>d</abbr> and ʐ amyte flemyse g{is}.</p>
+               <p>The grayen of fyne golde is worthe xxviij. mytis flemyse g{is}</p>
+               <pb facs="tcp:176394:24"/>
+               <p> ¶ This after folowyng been the pe<g ref="char:EOLhyphen"/>ces of golde that of late beē ordeyned of behalf off my souerayn lorde. the Ercheduke of Oostrijck of Brabant &amp;c{is}. that now fortheon haue course &amp; goe and shalbe take aboue the va<g ref="char:EOLhyphen"/>luacyon made in the ordynaūce and publessed ī y<seg rend="sup">e</seg> yere lxxxxix. last passed</p>
+               <p>
+                  <figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                     <head>The Castilian</head>
+                  </figure>
+                  <figure>
+                     <figDesc>face and reverse of coin</figDesc>
+                     <head>The dobbyɫɫ docaet</head>
+                  </figure>
+               </p>
+               <pb facs="tcp:176394:25"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Fyrst the Castilyaen of fyne golde weighyng liij ʐ. ī y<seg rend="sup">e</seg> mark</cell>
+                        <cell> viij. <abbr>s</abbr> v <abbr>d.</abbr> g{is}.</cell>
+                     </row>
+                     <row>
+                        <cell>The dobbeɫɫ docaet of Spayen. weighyng xxxv. ī y<seg rend="sup">e</seg> mark </cell>
+                        <cell>xiij <abbr>s</abbr> g{is}</cell>
+                     </row>
+                     <row>
+                        <cell>The docaet of y<seg rend="sup">e</seg> same of lxx ī y<seg rend="sup">e</seg> mark. lieke y<seg rend="sup">e</seg> docaet of hōgherey</cell>
+                        <cell>vi. <abbr>s.</abbr> vi <abbr>d</abbr>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <figure>
+                  <figDesc>face and reverse of coin</figDesc>
+                  <head>The Cruysades</head>
+               </figure>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The docaet mynted Portingale. named cruysades of .lxx. in y<seg rend="sup">e</seg> mark </cell>
+                        <cell>been valuered .vi. <abbr>s.</abbr> vi. <abbr>d</abbr> g{is}</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:176394:25"/>
+               <p> ¶ This is the englice weight of th<gap reason="illegible: right margin cropped or obscured" resp="#uom" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>se foresaid pecis of golde of spayē an<gap reason="illegible: right margin cropped or obscured" resp="#uom" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> portyngale</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>The castilian of fyne golde. liij. ʐ in<gap reason="illegible: right margin cropped or obscured" resp="#uom" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> mark. </cell>
+                        <cell>ij. englice ʐ. i. quartier. i troye i. dewes oon aes ʐ.</cell>
+                     </row>
+                     <row>
+                        <cell>The doobbeɫɫ docaet of Spayen. xxxv. in the marke</cell>
+                        <cell>iiij englice ʐ. and oon troye.</cell>
+                     </row>
+                     <row>
+                        <cell>The docaet of the same. lxx. in the mar.</cell>
+                        <cell>ij eng. i. <abbr>quart</abbr>. i▪ dewes scaers</cell>
+                     </row>
+                     <row>
+                        <cell>The cruyssade off Portyngale of lxx. in the marke</cell>
+                        <cell>ij. englic i. <abbr>q̄ti</abbr>. de<g ref="char:EOLunhyphen"/>wes scaers.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>¶ This is y<seg rend="sup">t</seg> penny weight of y<seg rend="sup">e</seg> fore<g ref="char:EOLhyphen"/>said spaynish &amp; portȳgalysh peces of fyne golde</head>
+                     <row>
+                        <cell>The castilaē</cell>
+                        <cell>iij <abbr>d</abbr> xiiij graȳ</cell>
+                     </row>
+                     <row>
+                        <cell>The doobeɫɫ docaet</cell>
+                        <cell>v <abbr>d</abbr> xij. grayen</cell>
+                     </row>
+                     <row>
+                        <cell>The docaet of y<seg rend="sup">e</seg> same.</cell>
+                        <cell>ij <abbr>d</abbr> xviij grayē</cell>
+                     </row>
+                     <row>
+                        <cell>The cruyssades</cell>
+                        <cell>ij <abbr>d</abbr> xviij grayn</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:176394:26"/>
+               <pb facs="tcp:176394:26"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
